@@ -6,7 +6,8 @@
 
 
 ![heise Download](https://www.heise.de/software/icons/download_logo1.png) \
-Download bei heise.de/Download:  https://www.heise.de/download/product/mjoy \
-
+Download bei heise.de/Download:  https://www.heise.de/download/product/mjoy
+\
+\
 
 (CC BY 3.0) metazip
