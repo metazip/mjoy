@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mjoy.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="3" Y="14"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="guiunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="mjoyForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="616"/>
+        <CursorPos X="44" Y="597"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="errorunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="errorForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="22"/>
+        <CursorPos Y="42"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="initunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="initForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="15"/>
+        <CursorPos X="5" Y="31"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="apiunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="544"/>
+        <CursorPos X="14" Y="561"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="serveunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="348"/>
+        <CursorPos X="9" Y="20"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="vmunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="380"/>
+        <CursorPos X="5" Y="19"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="primunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="1712"/>
+        <CursorPos X="14" Y="1735"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="actunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="132"/>
+        <CursorPos X="33" Y="140"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="typeunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="23" Y="24"/>
+        <UsageCount Value="85"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1787"/>
+        <CursorPos X="23" Y="1798"/>
+        <UsageCount Value="30"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="serveunit.pas"/>
+        <Caret Line="92" Column="46" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="serveunit.pas"/>
+        <Caret Line="110" Column="28" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="actunit.pas"/>
+        <Caret Line="64" Column="27" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="actunit.pas"/>
+        <Caret Line="42" Column="19" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="480" Column="25" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="481" Column="25" TopLine="458"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="319" Column="95" TopLine="298"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="302" Column="7" TopLine="293"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="301" Column="7" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="170" Column="16" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="10" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="161" Column="34" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="142" Column="22" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="251" Column="66" TopLine="235"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="217" Column="19" TopLine="205"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="249" Column="54" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="372" Column="4" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="142" Column="45" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="372" Column="36" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="574" Column="26" TopLine="352"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="566" Column="87" TopLine="552"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="137" Column="24" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="567" Column="90" TopLine="556"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="568" Column="90" TopLine="557"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="567" Column="90" TopLine="556"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="606" TopLine="588"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="167" Column="5" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="139" Column="36" TopLine="132"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="594" Column="7" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="guiunit.pas"/>
+        <Caret Line="602" Column="54" TopLine="584"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
